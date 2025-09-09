@@ -1,0 +1,11 @@
+---
+title: "Applied Boundary Value Problems"
+collection: teaching
+type: "ME 201/MTH2 81/ME 400/CHE 400"
+permalink: /teaching/me-201-fall-2019
+venue: "University of Rochester, Department of Mechanical Engineering"
+date: 2019-08-01
+location: "Rochester, New York"
+---
+
+This course covers the classical partial differential equations of mathematical physics: the heat equation, the Laplace equation, and the wave equation. The primary technique covered in the course is separation of variables, which leads to solutions in the form of eigenfunction expansions. The topics include Fourier series, separation of variables, Sturm-Liouville theory, unbounded domains and the Fourier transform, spherical coordinates and Legendre’s equation, cylindrical coordinates and Bessel’s equation. The software package Mathematica will be used extensively. Prior knowledge of Mathematica is helpful but not essential. In the last two weeks of the course, there will be a project on an assigned topic. The course will include applications in heat conduction, electrostatics, fluid flow, and acoustics.
