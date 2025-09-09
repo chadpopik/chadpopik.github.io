@@ -1,11 +1,11 @@
 ---
-title: "Elementary Astrophysics"
+title: "Elementary Astrophysics (Honors)"
 collection: teaching
 type: "AST 142"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/ast-142-spring-2019
 venue: "University of Rochester, Department of Physics & Astronomy"
 date: 2019-01-01
 location: "Rochester, New York"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Application of the physics and math techniques learned in the introductory course sequences, to the study of celestial objects outside the Solar system. We discuss stars and their formation from interstellar matter, the structure of galaxies and their distribution in the Universe, and the origins and large-scale structure of the Universe: all topics that are developed much further in the ASTR 200-level courses. The course also includes a night-time observing project, based upon student use of professional-style telescopes and CCD cameras. Registration of recitation is required at the time of course registration. Typical textbook: Marck Kutner, 'Astronomy' A Physical Perspective,' second edition.
