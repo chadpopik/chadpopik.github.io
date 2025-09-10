@@ -3,7 +3,7 @@ title: "Physics & Astronomy Upperclassmen Buddy"
 collection: teaching
 category: Mentor
 type: ""
-permalink: /teaching/physics
+permalink: /teaching/pas-buddy
 venue: "University of Rochester, Society of Physics Students"
 date: 2020-08-01
 location: "Rochester, New York"
