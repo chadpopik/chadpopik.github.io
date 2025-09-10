@@ -1,6 +1,7 @@
 ---
 title: "Elementary Astrophysics (Honors)"
 collection: teaching
+category: TA
 type: "AST 142"
 permalink: /teaching/ast-142-spring-2019
 venue: "University of Rochester, Department of Physics & Astronomy"
