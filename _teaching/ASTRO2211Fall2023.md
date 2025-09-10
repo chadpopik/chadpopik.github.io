@@ -1,6 +1,7 @@
 ---
 title: "Astronomy: Stars, Galaxies, and Cosmology"
 collection: teaching
+category: TA
 type: "ASTRO 2211"
 permalink: /teaching/astro-2211-fall-2023
 venue: "Cornell University, Department of Astronomy & Space Sciences"
