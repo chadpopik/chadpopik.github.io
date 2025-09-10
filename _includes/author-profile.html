@@ -37,10 +37,10 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.universityemail %}
-        <li><a href="mailto:{{ author.universityemail }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.universityemail }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "University Email" }}</a></li>
       {% endif %}
       {% if author.personalemail %}
-        <li><a href="mailto:{{ author.personalemail }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "University Email" }}</a></li>
+        <li><a href="mailto:{{ author.personalemail }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Personal Email" }}</a></li>
       {% endif %}
       {% if author.officeemail %}
         <li><a href="mailto:{{ author.officeemail }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Office Email" }}</a></li>
