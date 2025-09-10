@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, Cornell University, 2026 (expected)
+* M.S. in Astronomy, Cornell University, 2024
+* B.S. in Physics & Astronomy, University of Rochester, 2021
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,14 +32,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
