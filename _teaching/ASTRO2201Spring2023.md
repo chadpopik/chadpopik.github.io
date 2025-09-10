@@ -1,6 +1,7 @@
 ---
 title: "The History of the Universe"
 collection: teaching
+category: TA
 type: "ASTRO 2201"
 permalink: /teaching/astro-2201-spring-2023
 venue: "Cornell University, Department of Astronomy & Space Sciences"
