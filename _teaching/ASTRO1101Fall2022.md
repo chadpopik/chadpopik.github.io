@@ -1,6 +1,7 @@
 ---
 title: "From New Worlds to Black Holes"
 collection: teaching
+category: TA
 type: "ASTRO 1101"
 permalink: /teaching/astro-1101-fall-2022
 venue: "Cornell University, Department of Astronomy & Space Sciences"
