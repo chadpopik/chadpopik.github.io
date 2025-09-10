@@ -38,7 +38,9 @@ author_profile: true
 
 {% endif %}
 
+{% assign title_shown = false %}
 <h2>{{ Talks}}</h2><hr />
+{% assign title_shown = true %}
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
