@@ -9,4 +9,4 @@ date: 2020-08-01
 location: "Rochester, New York"
 ---
 
-SPS tutoring is the free tutoring service that is offered by the physics department to students in the 100-level classes. It is a very effective service and helps numerous individuals every semester. 
+Held weekly office hours open to all students in introductory physics classes at any level, as part of a volunteer-based tutoring service offered by the Society of Physics Students.
